@@ -4,5 +4,5 @@
 # authors: Claus Strasburger
 # url: https://github.com/cfstras/discourse-konami
 
-register_asset "javascripts/konami.js"
-register_asset "javascripts/discourse_konami.js"
+# register_asset "javascripts/konami.js"
+# register_asset "javascripts/discourse_konami.js"
